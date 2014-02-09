@@ -8,9 +8,9 @@ how to install it) and click and drop the folder with the game (must be the root
 
 Keys:
 
-Up Arrow : Change piece position
-Left Arrow : Move piece to the left
-Right Arrow : Move it to the right
+Up Arrow : Change piece position | 
+Left Arrow : Move piece to the left | 
+Right Arrow : Move it to the right | 
 Down Arrow : Currently nothing
 
 Bugs:
@@ -26,10 +26,10 @@ muy sencilla sobre como instalarlo), y coger y arrastrar la carpeta raíz del ju
 
 Teclas:
 
-Flecha Arriba : Cambiar la posición de la pieza
-Flecha Izquierda : Mover pieza hacia la izquierda
-Flecha Derecha : Moverla hacia la derecha
-Flecha Abajo : Nada de momento
+Flecha Arriba : Cambiar la posición de la pieza | 
+Flecha Izquierda : Mover pieza hacia la izquierda | 
+Flecha Derecha : Moverla hacia la derecha | 
+Flecha Abajo : Nada de momento | 
 
 Bugs:
 
