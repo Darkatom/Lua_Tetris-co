@@ -3,6 +3,8 @@ Tetris-co
 This is a Tetris game programmed with Lua and LÖVE2D 0.8.0 library. 
 I programmed it with the intention of teaching others how to program in Lua and LÖVE2D while having fun with it.
 
+![Tetris screenshot](tetris_image1.png)
+
 Controls
 -----------------------------------------------------
 Up Arrow : Change piece position <br/>
