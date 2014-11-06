@@ -28,4 +28,4 @@ Sometimes after reaching lvl 4 the chain of pieces may suddenly stop, but the ga
 
 License
 -----------------------------------------------------
-"Tetris" was originally developed by Alekséi Pázhitnov. No copyright or IP infringement intended. The code in this redo is subjected to the LPGL license.
+"Tetris" was originally developed by Alekséi Pázhitnov. No copyright or IP infringement intended. The code in this redo is subjected to the LPGL v3 license.
