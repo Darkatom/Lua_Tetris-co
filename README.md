@@ -20,7 +20,7 @@ To execute it, click and drag the root folder of the game to the LÖVE2D.exe ico
 
 Known Bugs
 -----------------------------------------------------
-Sometimes it can happen that after lvl 4 the chain of pieces can suddenly stop, but the game does not crash.
+Sometimes after reaching lvl 4 the chain of pieces may suddenly stop, but the game does not crash.
 
 
 
