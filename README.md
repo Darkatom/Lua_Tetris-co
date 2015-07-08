@@ -8,7 +8,7 @@ TETRIS - Old Version
 This is a Tetris game programmed with Lua and LÖVE2D 0.8.0 library. 
 I programmed it with the intention of teaching others how to program in Lua and LÖVE2D while having fun with it.
 
-![Tetris screenshot](Old Version/tetris_image1.png)
+![Tetris screenshot](Old version/tetris_image1.png)
 
 Controls
 -----------------------------------------------------
