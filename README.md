@@ -1,4 +1,9 @@
-Tetrus
+TETRIS - New Version (Using Classes)
+=============
+As I am starting a series of videos of how to program the TETRIS, I am also starting from scratch. Everything that is applied to the Old Version (details below) is applied to the new.
+
+
+TETRIS - Old Version
 =============
 This is a Tetris game programmed with Lua and LÖVE2D 0.8.0 library. 
 I programmed it with the intention of teaching others how to program in Lua and LÖVE2D while having fun with it.
@@ -26,6 +31,6 @@ Sometimes after reaching lvl 4 the chain of pieces may suddenly stop, but the ga
 
 
 
-License
+Disclaimer
 -----------------------------------------------------
-"Tetris" was originally developed by Alekséi Pázhitnov. No copyright or IP infringement intended. The code in this redo is subjected to the LPGL v3 license.
+"Tetris" was originally developed by Alekséi Pázhitnov. No copyright or IP infringement intended. 
