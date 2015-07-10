@@ -1,0 +1,69 @@
+
+CANVAS
+
+	Anchura: 722 px (176 + 9 + 352 + 9 + 176)
+	 Altura: 624 px (15 + 9 + 576 + 9 + 15)
+
+
+ZONA JUEGO:
+
+	Anchura: 352 px
+	 Altura: 576 px
+
+
+	X borde: 176 px (352/2)
+	Y borde: 15 px
+	
+	X zona de juego: 185 px	(176 + 9)
+	Y zona de juego:  24 px  (15 + 9)
+
+
+--------------------------------------------
+
+MÓDULOS:
+
+Anchura: Canvas.Anchura - 15 - (ZonaJuego.X + 5) = 352 - 15 - (185 + 5) = 147 px 
+ Altura: [Canvas.Altura - 15 (Borde superior) - 15 (Borde inferior) - 5*3 (Huecos entre módulos)]/4 (Número de módulos) =
+		= (624 - 30 - 15)/4 = 144.75 = 145 px
+
+
+
+SCORE:
+	X: ZonaJuego.X + ZonaJuego.Anchura + 15 = 185 + 352 + 9 + 15 = 561 px
+	Y: 15 px (Borde superior)
+
+
+LINES:
+	X: 561 px
+	Y: 15 + 145 + 5 = 165 px
+
+
+
+LEVEL:
+	X: 561 px
+	Y: 15 + 145 + 5 + 145 + 5 = 315 px
+
+
+HOLD-ON:
+	X: 561 px
+	Y: 15 + 145 + 5 + 145 + 5 + 145 + 5 = 465 px
+
+
+--------------------------------------------
+
+
+NEXT:
+
+	X: 15 px (Borde Izquierdo)
+	Y: 15 px (Borde Superior)
+
+	Anchura: 147 px
+	 Altura: Canvas.Altura - 30 (Bordes) = 624 - 30 = 594 px
+	
+
+
+Fuente: http://www.1001freefonts.com/karmafuture.font
+
+
+
+
